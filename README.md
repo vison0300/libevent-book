@@ -1,2 +1,2 @@
 # libevent-book
-libevent-book: html, txt and pdf
+libevent-book kinds: html, txt and pdf
